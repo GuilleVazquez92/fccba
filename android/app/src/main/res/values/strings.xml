@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Futbol Club CBA</string>
+    <string name="title_activity_main">Futbol Club CBA</string>
+    <string name="package_name">com.sanjua.predios</string>
+    <string name="custom_url_scheme">com.sanjua.predios</string>
+    <string name="facebook_app_id">319146455981780</string>
+    <string name="fb_login_protocol_scheme">fb319146455981780</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://fc-cba.com/.well-known/assetlinks.json\" }]</string>
+</resources>

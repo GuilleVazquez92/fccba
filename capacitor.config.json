@@ -1,0 +1,8 @@
+{
+  "appId": "com.sanjua.predios",
+  "appName": "Predios CBA",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

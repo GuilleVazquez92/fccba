@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485401273377",
+    "project_id": "futbolclub-cba",
+    "storage_bucket": "futbolclub-cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485401273377:android:ec261ddd768e810a2b2f60",
+        "android_client_info": {
+          "package_name": "com.sanjua.predios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485401273377-dbru700sa72m9foemtikedb53j6vbcbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx0b1CY-Qa3DbzsewIpLbjN-Dta1KJH0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485401273377-dbru700sa72m9foemtikedb53j6vbcbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
